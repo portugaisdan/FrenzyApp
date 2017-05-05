@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:text="Allume feu"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_marginRight="235.6dp" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox1" />
+    <TextView
+        android:text="Charbon Barbecue"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="169.4dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox2" />
+    <TextView
+        android:text="Assiette plastique ( x50 )"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="199.8dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox3" />
+    <TextView
+        android:text="Cure dents ( x100 )"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="166.2dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox4" />
+    <TextView
+        android:text="Verre plastique ( x50 )"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="182.6dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox5" />
+    <TextView
+        android:text="Fourchette plastique ( x20 )"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="230.7dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox6" />
+    <TextView
+        android:text="Couteux plastique ( x20 )"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="208.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkBox7" />
+    <Button
+        android:text="Valider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1" />
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/arriereplan">
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="33.8dp"
+        android:id="@+id/textView3"
+        android:text="Nombre d'invités :"
+        android:textColor="#fff6b90e"
+        android:layout_marginBottom="24.9dp" />
+    <CheckBox
+        android:text="0 à 5"
+        android:layout_width="match_parent"
+        android:layout_height="31.3dp"
+        android:id="@+id/Invites3"
+        android:textColor="#fff2eb18"
+        android:layout_marginBottom="7.3dp" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="36.5dp"
+        android:id="@+id/Invites7"
+        android:text="6 à 10"
+        android:textColor="#ffe8e803"
+        android:layout_marginBottom="11.4dp" />
+    <CheckBox
+        android:text="11 à 15"
+        android:layout_width="match_parent"
+        android:layout_height="34.5dp"
+        android:id="@+id/Invites13"
+        android:textColor="#fff0f517"
+        android:layout_marginBottom="12.4dp" />
+    <CheckBox
+        android:text="16 à 20"
+        android:layout_width="match_parent"
+        android:layout_height="32.1dp"
+        android:id="@+id/Invites18"
+        android:textColor="#fffeff20"
+        android:layout_marginBottom="13.5dp" />
+    <CheckBox
+        android:text="21 à 25"
+        android:layout_width="match_parent"
+        android:layout_height="30.2dp"
+        android:id="@+id/Invites23"
+        android:textColor="#fff5f50f"
+        android:layout_marginBottom="13.5dp" />
+    <CheckBox
+        android:text="26 à 30"
+        android:layout_width="match_parent"
+        android:layout_height="30.2dp"
+        android:id="@+id/Invites28"
+        android:textColor="#fff5f50f"
+        android:layout_marginBottom="11.4dp" />
+    <CheckBox
+        android:text="31 à 40"
+        android:layout_width="match_parent"
+        android:layout_height="30.2dp"
+        android:id="@+id/Invites35"
+        android:textColor="#fff5f50f"
+        android:layout_marginBottom="11.4dp" />
+    <CheckBox
+        android:text="41 à 50"
+        android:layout_width="match_parent"
+        android:layout_height="30.2dp"
+        android:id="@+id/Invites45"
+        android:textColor="#fff5f50f" />
+</LinearLayout>

@@ -1,0 +1,8 @@
+Frenzyv1.MainActivity, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.MainActivity
+Frenzyv1.MainActivity, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.MainActivity
+Frenzyv1.MainActivity;md511c1187bef7b0fd7a15293e129adaaff.MainActivity
+frenzyv1.MainActivity;md511c1187bef7b0fd7a15293e129adaaff.MainActivity
+Frenzyv1.Login, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Login
+Frenzyv1.Login, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Login
+Frenzyv1.Login;md511c1187bef7b0fd7a15293e129adaaff.Login
+frenzyv1.Login;md511c1187bef7b0fd7a15293e129adaaff.Login

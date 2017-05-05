@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/soirees">
+    <TextView
+        android:text="Text"
+        android:layout_width="match_parent"
+        android:layout_height="64.3dp"
+        android:id="@+id/Total"
+        android:typeface="normal"
+        android:textStyle="italic"
+        android:textSize="18dp" />
+    <Button
+        android:text="Liste des boissons"
+        android:layout_width="260.8dp"
+        android:layout_height="32.3dp"
+        android:id="@+id/ListeBS"
+        android:layout_marginTop="44.3dp"
+        android:background="#fff6cb23"
+        android:textColor="#ff190f0f" />
+    <Button
+        android:text="Liste de la nourriture"
+        android:layout_width="260.8dp"
+        android:layout_height="36.5dp"
+        android:id="@+id/ListeNS"
+        android:layout_marginTop="72.6dp"
+        android:background="#fff6cb23"
+        android:textColor="#ff120202" />
+    <Button
+        android:text="Liste des extras"
+        android:layout_width="259.8dp"
+        android:layout_height="35.6dp"
+        android:id="@+id/ListeES"
+        android:background="#fff6cb23"
+        android:layout_marginTop="73.4dp"
+        android:textColor="#ff120606" />
+    <Button
+        android:text="Invite your friends !"
+        android:layout_width="384.5dp"
+        android:layout_height="35.7dp"
+        android:id="@+id/Friend"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="0.0dp"
+        android:background="#ff403e3e"
+        android:textColor="#fff6cb23" />
+    <Button
+        android:text="Retour au menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ToMenu"
+        android:textColor="#fff6cb23"
+        android:background="#ff403e3e"
+        android:layout_marginTop="7.0dp" />
+</LinearLayout>

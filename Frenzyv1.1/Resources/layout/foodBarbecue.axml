@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/arriereplan">
+    <Button
+        android:text="Baguette (x1)"
+        android:layout_width="match_parent"
+        android:layout_height="40.0dp"
+        android:id="@+id/btnBaguette" />
+    <Button
+        android:text="Chamallows (300g)"
+        android:layout_width="match_parent"
+        android:layout_height="38.2dp"
+        android:id="@+id/btnChamallows" />
+    <Button
+        android:text="Chipolatas (x6)"
+        android:layout_width="match_parent"
+        android:layout_height="39.2dp"
+        android:id="@+id/btnChipolatas" />
+    <Button
+        android:text="Côtelettes d'agneau (x6)"
+        android:layout_width="match_parent"
+        android:layout_height="39.1dp"
+        android:id="@+id/btnCotelettes" />
+    <Button
+        android:text="Courgettes (1kg)"
+        android:layout_width="match_parent"
+        android:layout_height="39.2dp"
+        android:id="@+id/btnCourgettes" />
+    <Button
+        android:text="Merguez (x6)"
+        android:layout_width="match_parent"
+        android:layout_height="40.0dp"
+        android:id="@+id/btnMerguez" />
+    <Button
+        android:text="Pièces de brochette (300g)"
+        android:layout_width="match_parent"
+        android:layout_height="38.2dp"
+        android:id="@+id/btnPiecesBrochette" />
+    <Button
+        android:text="Poivron (x1)"
+        android:layout_width="match_parent"
+        android:layout_height="35.5dp"
+        android:id="@+id/btnPoivron" />
+    <Button
+        android:text="Pommes de terre (1kg)"
+        android:layout_width="match_parent"
+        android:layout_height="41.0dp"
+        android:id="@+id/btnPommesDeTerre" />
+</LinearLayout>

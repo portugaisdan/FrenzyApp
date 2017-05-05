@@ -1,0 +1,18 @@
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\Frenzyv1.1.UITests.dll
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\Frenzyv1.1.UITests.pdb
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\nunit.framework.dll
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\nunit.framework.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\obj\Debug\Frenzyv1.1.UITests.csprojResolveAssemblyReference.cache
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\obj\Debug\Frenzyv1.1.UITests.dll
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1.UITests\obj\Debug\Frenzyv1.1.UITests.pdb
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\Frenzyv1.1.UITests.dll
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\Frenzyv1.1.UITests.pdb
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\nunit.framework.dll
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\nunit.framework.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\obj\Debug\Frenzyv1.1.UITests.csprojResolveAssemblyReference.cache
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\obj\Debug\Frenzyv1.1.UITests.dll
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1.UITests\obj\Debug\Frenzyv1.1.UITests.pdb

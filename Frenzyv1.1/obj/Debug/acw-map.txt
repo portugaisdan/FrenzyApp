@@ -1,0 +1,104 @@
+Frenzyv1.MainActivity, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.MainActivity
+Frenzyv1.MainActivity, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.MainActivity
+Frenzyv1.MainActivity;md511c1187bef7b0fd7a15293e129adaaff.MainActivity
+frenzyv1.MainActivity;md511c1187bef7b0fd7a15293e129adaaff.MainActivity
+Frenzyv1.createUser, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.createUser
+Frenzyv1.createUser, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.createUser
+Frenzyv1.createUser;md511c1187bef7b0fd7a15293e129adaaff.createUser
+frenzyv1.createUser;md511c1187bef7b0fd7a15293e129adaaff.createUser
+Frenzyv1.MainMenu, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.MainMenu
+Frenzyv1.MainMenu, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.MainMenu
+Frenzyv1.MainMenu;md511c1187bef7b0fd7a15293e129adaaff.MainMenu
+frenzyv1.MainMenu;md511c1187bef7b0fd7a15293e129adaaff.MainMenu
+Frenzyv1.CreerSoiree, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.CreerSoiree
+Frenzyv1.CreerSoiree, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.CreerSoiree
+Frenzyv1.CreerSoiree;md511c1187bef7b0fd7a15293e129adaaff.CreerSoiree
+frenzyv1.CreerSoiree;md511c1187bef7b0fd7a15293e129adaaff.CreerSoiree
+Frenzyv1.calendrier, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.calendrier
+Frenzyv1.calendrier, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.calendrier
+Frenzyv1.calendrier;md511c1187bef7b0fd7a15293e129adaaff.calendrier
+frenzyv1.calendrier;md511c1187bef7b0fd7a15293e129adaaff.calendrier
+Frenzyv1.invites, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.invites
+Frenzyv1.invites, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.invites
+Frenzyv1.invites;md511c1187bef7b0fd7a15293e129adaaff.invites
+frenzyv1.invites;md511c1187bef7b0fd7a15293e129adaaff.invites
+Frenzyv1.TypeSoiree, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.TypeSoiree
+Frenzyv1.TypeSoiree, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.TypeSoiree
+Frenzyv1.TypeSoiree;md511c1187bef7b0fd7a15293e129adaaff.TypeSoiree
+frenzyv1.TypeSoiree;md511c1187bef7b0fd7a15293e129adaaff.TypeSoiree
+Frenzyv1.ConfigSoiree, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.ConfigSoiree
+Frenzyv1.ConfigSoiree, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.ConfigSoiree
+Frenzyv1.ConfigSoiree;md511c1187bef7b0fd7a15293e129adaaff.ConfigSoiree
+frenzyv1.ConfigSoiree;md511c1187bef7b0fd7a15293e129adaaff.ConfigSoiree
+Frenzyv1.Alcool, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Alcool
+Frenzyv1.Alcool, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Alcool
+Frenzyv1.Alcool;md511c1187bef7b0fd7a15293e129adaaff.Alcool
+frenzyv1.Alcool;md511c1187bef7b0fd7a15293e129adaaff.Alcool
+Frenzyv1.Soft, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Soft
+Frenzyv1.Soft, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Soft
+Frenzyv1.Soft;md511c1187bef7b0fd7a15293e129adaaff.Soft
+frenzyv1.Soft;md511c1187bef7b0fd7a15293e129adaaff.Soft
+Frenzyv1.Extras, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Extras
+Frenzyv1.Extras, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Extras
+Frenzyv1.Extras;md511c1187bef7b0fd7a15293e129adaaff.Extras
+frenzyv1.Extras;md511c1187bef7b0fd7a15293e129adaaff.Extras
+Frenzyv1.ListeAlcool, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.ListeAlcool
+Frenzyv1.ListeAlcool, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.ListeAlcool
+Frenzyv1.ListeAlcool;md511c1187bef7b0fd7a15293e129adaaff.ListeAlcool
+frenzyv1.ListeAlcool;md511c1187bef7b0fd7a15293e129adaaff.ListeAlcool
+Frenzyv1.ListeSoft, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.ListeSoft
+Frenzyv1.ListeSoft, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.ListeSoft
+Frenzyv1.ListeSoft;md511c1187bef7b0fd7a15293e129adaaff.ListeSoft
+frenzyv1.ListeSoft;md511c1187bef7b0fd7a15293e129adaaff.ListeSoft
+Frenzyv1.Apero, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Apero
+Frenzyv1.Apero, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Apero
+Frenzyv1.Apero;md511c1187bef7b0fd7a15293e129adaaff.Apero
+frenzyv1.Apero;md511c1187bef7b0fd7a15293e129adaaff.Apero
+Frenzyv1.ListeApero, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.ListeApero
+Frenzyv1.ListeApero, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.ListeApero
+Frenzyv1.ListeApero;md511c1187bef7b0fd7a15293e129adaaff.ListeApero
+frenzyv1.ListeApero;md511c1187bef7b0fd7a15293e129adaaff.ListeApero
+Frenzyv1.ListeBBQ, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.ListeBBQ
+Frenzyv1.ListeBBQ, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.ListeBBQ
+Frenzyv1.ListeBBQ;md511c1187bef7b0fd7a15293e129adaaff.ListeBBQ
+frenzyv1.ListeBBQ;md511c1187bef7b0fd7a15293e129adaaff.ListeBBQ
+Frenzyv1.Barbecue, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Barbecue
+Frenzyv1.Barbecue, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Barbecue
+Frenzyv1.Barbecue;md511c1187bef7b0fd7a15293e129adaaff.Barbecue
+frenzyv1.Barbecue;md511c1187bef7b0fd7a15293e129adaaff.Barbecue
+Frenzyv1.ListeExtras, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.ListeExtras
+Frenzyv1.ListeExtras, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.ListeExtras
+Frenzyv1.ListeExtras;md511c1187bef7b0fd7a15293e129adaaff.ListeExtras
+frenzyv1.ListeExtras;md511c1187bef7b0fd7a15293e129adaaff.ListeExtras
+Frenzyv1.Brunch, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Brunch
+Frenzyv1.Brunch, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Brunch
+Frenzyv1.Brunch;md511c1187bef7b0fd7a15293e129adaaff.Brunch
+frenzyv1.Brunch;md511c1187bef7b0fd7a15293e129adaaff.Brunch
+Frenzyv1.ListeBrunch, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.ListeBrunch
+Frenzyv1.ListeBrunch, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.ListeBrunch
+Frenzyv1.ListeBrunch;md511c1187bef7b0fd7a15293e129adaaff.ListeBrunch
+frenzyv1.ListeBrunch;md511c1187bef7b0fd7a15293e129adaaff.ListeBrunch
+Frenzyv1.MaSoiree, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.MaSoiree
+Frenzyv1.MaSoiree, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.MaSoiree
+Frenzyv1.MaSoiree;md511c1187bef7b0fd7a15293e129adaaff.MaSoiree
+frenzyv1.MaSoiree;md511c1187bef7b0fd7a15293e129adaaff.MaSoiree
+Frenzyv1.Amis, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Amis
+Frenzyv1.Amis, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Amis
+Frenzyv1.Amis;md511c1187bef7b0fd7a15293e129adaaff.Amis
+frenzyv1.Amis;md511c1187bef7b0fd7a15293e129adaaff.Amis
+Frenzyv1.Final, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.Final
+Frenzyv1.Final, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.Final
+Frenzyv1.Final;md511c1187bef7b0fd7a15293e129adaaff.Final
+frenzyv1.Final;md511c1187bef7b0fd7a15293e129adaaff.Final
+Frenzyv1.coursesBoissons, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.coursesBoissons
+Frenzyv1.coursesBoissons, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.coursesBoissons
+Frenzyv1.coursesBoissons;md511c1187bef7b0fd7a15293e129adaaff.coursesBoissons
+frenzyv1.coursesBoissons;md511c1187bef7b0fd7a15293e129adaaff.coursesBoissons
+Frenzyv1.coursesExtras, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.coursesExtras
+Frenzyv1.coursesExtras, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.coursesExtras
+Frenzyv1.coursesExtras;md511c1187bef7b0fd7a15293e129adaaff.coursesExtras
+frenzyv1.coursesExtras;md511c1187bef7b0fd7a15293e129adaaff.coursesExtras
+Frenzyv1.coursesNourriture, Frenzyv1.1;md511c1187bef7b0fd7a15293e129adaaff.coursesNourriture
+Frenzyv1.coursesNourriture, Frenzyv1.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md511c1187bef7b0fd7a15293e129adaaff.coursesNourriture
+Frenzyv1.coursesNourriture;md511c1187bef7b0fd7a15293e129adaaff.coursesNourriture
+frenzyv1.coursesNourriture;md511c1187bef7b0fd7a15293e129adaaff.coursesNourriture

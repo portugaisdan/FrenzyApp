@@ -1,0 +1,315 @@
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll.mdb
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1-Signed.apk
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.dll
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\android\bin\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\main.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\values\strings.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\frenzy.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\layout2.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\menu_principal.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\creer_sa_soiree.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\calendrier.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\apero.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\karaoke.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\party.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soiree_deguisement.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\invites.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\bigparty.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\brunch.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soireeposee.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\barbecue.png
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\type_de_soiree.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\config_soiree.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\choix.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\extras.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\listealcool.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\soft.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\foodapero.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbarbecue.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbrunch.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\soirees.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\res\layout\amis.xml
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\R.cs.flag
+C:\Users\isen\Downloads\1.2\Frenzyv1.1\obj\Debug\uploadflags.txt
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll.mdb
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1-Signed.apk
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.dll
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\android\bin\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\main.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\values\strings.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\frenzy.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\layout2.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\menu_principal.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\creer_sa_soiree.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\calendrier.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\apero.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\karaoke.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\party.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soiree_deguisement.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\invites.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\bigparty.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\brunch.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soireeposee.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\barbecue.png
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\type_de_soiree.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\config_soiree.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\choix.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\extras.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\listealcool.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\soft.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\foodapero.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbarbecue.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbrunch.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\soirees.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\amis.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\res\layout\finis.xml
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\R.cs.flag
+C:\Users\isen\Desktop\maxence pour test\1.2\Frenzyv1.1\obj\Debug\uploadflags.txt
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll.mdb
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1-Signed.apk
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv2.0.csprojResolveAssemblyReference.cache
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.dll
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\android\bin\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\main.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\values\strings.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\frenzy.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\layout2.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\menu_principal.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\creer_sa_soiree.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\calendrier.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\apero.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\karaoke.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\party.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soiree_deguisement.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\invites.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\bigparty.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\brunch.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soireeposee.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\barbecue.png
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\type_de_soiree.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\config_soiree.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\choix.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\extras.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\listealcool.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soft.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodapero.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbarbecue.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbrunch.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soirees.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\amis.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesboissons.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\R.cs.flag
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\uploadflags.txt
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesextras.xml
+C:\Users\isen\Desktop\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesnourriture.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll.mdb
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1-Signed.apk
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.dll
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\android\bin\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\main.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\values\strings.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\frenzy.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\layout2.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\menu_principal.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\creer_sa_soiree.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\calendrier.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\apero.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\karaoke.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\party.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soiree_deguisement.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\invites.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\bigparty.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\brunch.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soireeposee.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\barbecue.png
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\type_de_soiree.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\config_soiree.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\choix.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\extras.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\listealcool.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soft.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodapero.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbarbecue.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbrunch.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soirees.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\amis.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesboissons.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesextras.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesnourriture.xml
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\R.cs.flag
+C:\Users\isen\Desktop\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\uploadflags.txt
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.dll
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.pdb
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.pdb
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll.mdb
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1.apk
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1-Signed.apk
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\android\bin\com.companyname.frenzy_v1.x1.apk
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\main.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\values\strings.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\frenzy.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\layout2.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\menu_principal.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\creer_sa_soiree.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\calendrier.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\invites.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\bigparty.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\brunch.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soireeposee.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\barbecue.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\type_de_soiree.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\choix.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\extras.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\listealcool.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soft.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodapero.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbarbecue.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbrunch.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soirees.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\amis.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesboissons.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesextras.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesnourriture.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\arriereplan.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\party.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\inviteramis.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\config_soiree.xml
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\R.cs.flag
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\uploadflags.txt
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soirees.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\creermasoiree.png
+C:\Users\Dan\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv2.0.csprojResolveAssemblyReference.cache
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll.mdb
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1-Signed.apk
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.dll
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\android\bin\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\main.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\values\strings.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\layout2.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\menu_principal.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\creer_sa_soiree.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\calendrier.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\invites.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\bigparty.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\brunch.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soireeposee.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\barbecue.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\type_de_soiree.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\choix.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\extras.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\listealcool.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soft.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodapero.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbarbecue.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbrunch.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soirees.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\amis.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesboissons.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesextras.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesnourriture.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\arriereplan.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\party.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\config_soiree.xml
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\inviteramis.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soirees.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\frenzy.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\creermasoiree.png
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\R.cs.flag
+C:\Users\isen\Desktop\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\uploadflags.txt
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\Frenzyv1.1.dll.mdb
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\bin\Debug\com.companyname.frenzy_v1.x1-Signed.apk
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.dll
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\Frenzyv1.1.pdb
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\android\bin\com.companyname.frenzy_v1.x1.apk
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\main.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\values\strings.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\layout2.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\menu_principal.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\creer_sa_soiree.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\calendrier.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\invites.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\bigparty.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\brunch.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soireeposee.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\barbecue.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\type_de_soiree.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\choix.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\extras.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\listealcool.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soft.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodapero.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbarbecue.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\foodbrunch.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\soirees.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\amis.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesboissons.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesextras.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\coursesnourriture.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\arriereplan.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\party.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\layout\config_soiree.xml
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\inviteramis.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\soirees.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\frenzy.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\res\drawable-xxhdpi\creermasoiree.png
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\R.cs.flag
+C:\Users\isen\Downloads\version finale en cours v2\finalversion top\frenzy 2.2\frenzy 2.1\1.2\Frenzyv1.1\obj\Debug\uploadflags.txt

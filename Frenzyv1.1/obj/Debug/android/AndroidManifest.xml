@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.frenzy_v1.x1">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="19" />
+  <application android:label="Frenzy v1.1" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/frenzy" android:label="Frenzy v2.0" android:name="md511c1187bef7b0fd7a15293e129adaaff.MainActivity" />
+    <activity android:label="createUser" android:name="md511c1187bef7b0fd7a15293e129adaaff.createUser" />
+    <activity android:icon="@drawable/frenzy" android:label="MainMenu" android:name="md511c1187bef7b0fd7a15293e129adaaff.MainMenu" />
+    <activity android:icon="@drawable/frenzy" android:label="CreerSoiree" android:name="md511c1187bef7b0fd7a15293e129adaaff.CreerSoiree" />
+    <activity android:icon="@drawable/frenzy" android:label="calendrier" android:name="md511c1187bef7b0fd7a15293e129adaaff.calendrier" />
+    <activity android:icon="@drawable/frenzy" android:label="invites" android:name="md511c1187bef7b0fd7a15293e129adaaff.invites" />
+    <activity android:icon="@drawable/frenzy" android:label="TypeSoiree" android:name="md511c1187bef7b0fd7a15293e129adaaff.TypeSoiree" />
+    <activity android:icon="@drawable/frenzy" android:label="ConfigSoiree" android:name="md511c1187bef7b0fd7a15293e129adaaff.ConfigSoiree" />
+    <activity android:label="Alcool" android:name="md511c1187bef7b0fd7a15293e129adaaff.Alcool" />
+    <activity android:label="Soft" android:name="md511c1187bef7b0fd7a15293e129adaaff.Soft" />
+    <activity android:label="Extras" android:name="md511c1187bef7b0fd7a15293e129adaaff.Extras" />
+    <activity android:label="ListeAlcool" android:name="md511c1187bef7b0fd7a15293e129adaaff.ListeAlcool" />
+    <activity android:label="ListeSoft" android:name="md511c1187bef7b0fd7a15293e129adaaff.ListeSoft" />
+    <activity android:label="Apero" android:name="md511c1187bef7b0fd7a15293e129adaaff.Apero" />
+    <activity android:label="ListeApero" android:name="md511c1187bef7b0fd7a15293e129adaaff.ListeApero" />
+    <activity android:label="ListeBBQ" android:name="md511c1187bef7b0fd7a15293e129adaaff.ListeBBQ" />
+    <activity android:label="Barbecue" android:name="md511c1187bef7b0fd7a15293e129adaaff.Barbecue" />
+    <activity android:label="ListeExtras" android:name="md511c1187bef7b0fd7a15293e129adaaff.ListeExtras" />
+    <activity android:label="Brunch" android:name="md511c1187bef7b0fd7a15293e129adaaff.Brunch" />
+    <activity android:label="ListeBrunch" android:name="md511c1187bef7b0fd7a15293e129adaaff.ListeBrunch" />
+    <activity android:label="MaSoiree" android:name="md511c1187bef7b0fd7a15293e129adaaff.MaSoiree" />
+    <activity android:label="Amis" android:name="md511c1187bef7b0fd7a15293e129adaaff.Amis" />
+    <activity android:label="Final" android:name="md511c1187bef7b0fd7a15293e129adaaff.Final" />
+    <activity android:label="coursesBoissons" android:name="md511c1187bef7b0fd7a15293e129adaaff.coursesBoissons" />
+    <activity android:label="coursesExtras" android:name="md511c1187bef7b0fd7a15293e129adaaff.coursesExtras" />
+    <activity android:label="coursesNourriture" android:name="md511c1187bef7b0fd7a15293e129adaaff.coursesNourriture" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.frenzy_v1.x1.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.companyname.frenzy_v1.x1" />
+      </intent-filter>
+    </receiver>
+    <activity android:icon="@drawable/frenzy" android:label="Frenzy v2.0" android:name="com.companyname.frenzy_v1.x1.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>

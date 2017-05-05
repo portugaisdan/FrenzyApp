@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:text="Bières (8x 25cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnBiere" />
+    <Button
+        android:text="Champagne (75cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnChamp" />
+    <Button
+        android:text="Get 27 (70cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnGet" />
+    <Button
+        android:text="Gin (70cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnGin" />
+    <Button
+        android:text="Jägermeister (70cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnJager" />
+    <Button
+        android:text="Malibu (70 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnMalibu" />
+    <Button
+        android:text="Martini (1 L)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnMartini" />
+    <Button
+        android:text="Passoa (70 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnPassoa" />
+    <Button
+        android:text="Pastis (70 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnPastis" />
+    <Button
+        android:text="Porto (75 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnPorto" />
+    <Button
+        android:text="Rhum (70 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnRhum" />
+    <Button
+        android:text="Tequila (70 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnTequila" />
+    <Button
+        android:text="Vin blanc (75 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnVB" />
+    <Button
+        android:text="Vin rouge (75 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnVR" />
+    <Button
+        android:text="Vodka (70 cL)"
+        android:layout_width="match_parent"
+        android:layout_height="34.1dp"
+        android:id="@+id/btnVodka"
+        android:layout_marginBottom="0.0dp" />
+    <Button
+        android:text="Whisky (1 L)"
+        android:layout_width="match_parent"
+        android:layout_height="34.2dp"
+        android:id="@+id/btnWhisky" />
+</LinearLayout>

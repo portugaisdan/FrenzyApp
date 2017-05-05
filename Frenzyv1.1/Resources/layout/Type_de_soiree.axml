@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/arriereplan">
+    <TextView xmlns:tools="http://schemas.android.com/tools"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="32.2dp"
+        android:id="@+id/textView1"
+        tools:text="Type de soirée : "
+        android:textColor="#fff8d375"
+        android:textStyle="normal" />
+    <ImageButton
+        android:layout_width="139.5dp"
+        android:layout_height="74.2dp"
+        android:id="@+id/Barbecue"
+        android:background="@drawable/barbecue"
+        android:layout_marginTop="15.9dp"
+        android:layout_marginLeft="116.9dp"
+        android:clickable="true" />
+    <ImageButton
+        android:layout_width="138.5dp"
+        android:layout_height="73.2dp"
+        android:id="@+id/BigParty"
+        android:background="@drawable/bigparty"
+        android:layout_marginTop="15.9dp"
+        android:layout_marginLeft="115.9dp"
+        android:clickable="true" />
+    <ImageButton
+        android:layout_width="139.6dp"
+        android:layout_height="75.9dp"
+        android:id="@+id/Brunch"
+        android:background="@drawable/brunch"
+        android:layout_marginTop="15.9dp"
+        android:layout_marginLeft="115.9dp"
+        android:clickable="true" />
+    <ImageButton
+        android:layout_width="138.6dp"
+        android:layout_height="73.2dp"
+        android:id="@+id/SoireePosee"
+        android:background="@drawable/soireeposee"
+        android:layout_marginTop="15.9dp"
+        android:layout_marginLeft="115.0dp"
+        android:clickable="true" />
+</LinearLayout>

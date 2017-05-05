@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/party">
+    <Gallery
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gallery1" />
+    <Button
+        android:text="CREER UNE SOIREE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Create"
+        android:layout_marginTop="250.0dp" />
+    <Button
+        android:text="MES SOIREES"
+        android:layout_width="match_parent"
+        android:layout_height="57.5dp"
+        android:id="@+id/Soirees"
+        android:layout_marginTop="11.2dp" />
+    <Button
+        android:text="MODIFIER MON PROFIL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Profil"
+        android:layout_marginTop="15.6dp" />
+</LinearLayout>

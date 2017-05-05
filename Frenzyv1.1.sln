@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frenzyv2.0", "Frenzyv1.1\Frenzyv2.0.csproj", "{E2A53726-3564-47CA-8231-89E9C6FACE2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frenzyv1.1.UITests", "Frenzyv1.1.UITests\Frenzyv1.1.UITests.csproj", "{56150328-6B1E-4F1E-B1E7-81A615746639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56150328-6B1E-4F1E-B1E7-81A615746639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56150328-6B1E-4F1E-B1E7-81A615746639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56150328-6B1E-4F1E-B1E7-81A615746639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56150328-6B1E-4F1E-B1E7-81A615746639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A53726-3564-47CA-8231-89E9C6FACE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A53726-3564-47CA-8231-89E9C6FACE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A53726-3564-47CA-8231-89E9C6FACE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A53726-3564-47CA-8231-89E9C6FACE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

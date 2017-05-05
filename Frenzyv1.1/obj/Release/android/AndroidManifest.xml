@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.frenzy_v1.x1">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="19" />
+  <application android:label="Frenzy v1.1" android:name="mono.android.app.Application">
+    <activity android:icon="@drawable/frenzy" android:label="Frenzy v1.1" android:name="md511c1187bef7b0fd7a15293e129adaaff.MainActivity" />
+    <activity android:label="Login" android:name="md511c1187bef7b0fd7a15293e129adaaff.Login" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.frenzy_v1.x1.mono.MonoRuntimeProvider.__mono_init__" />
+    <activity android:icon="@drawable/frenzy" android:label="Frenzy v1.1" android:name="com.companyname.frenzy_v1.x1.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+</manifest>

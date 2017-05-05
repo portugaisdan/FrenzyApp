@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Frenzyv1.1\Frenzyv2.0.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frenzyv1.1\ConfigSoiree.cs">
+    <Files>
+      <File FileName="Frenzyv1.1\Brunch.cs" Line="109" Column="7" />
+      <File FileName="Frenzyv1.1\Alcool.cs" Line="108" Column="7" />
+      <File FileName="Frenzyv1.1\ConfigSoiree.cs" Line="45" Column="106" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Frenzyv2.0 AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

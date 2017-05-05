@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProjectGuid>{E2A53726-3564-47CA-8231-89E9C6FACE2B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Frenzyv1</RootNamespace>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
+    <AssemblyName>Frenzyv1.1</AssemblyName>
+    <TargetFrameworkVersion>v4.4</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <AndroidLinkMode>None</AndroidLinkMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Mono.Android" />
+    <Reference Include="System.Data" />
+    <Reference Include="Mono.Data.Sqlite" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DBUser.cs" />
+    <Compile Include="DBMateriel.cs" />
+    <Compile Include="DBsoiree.cs" />
+    <Compile Include="DBSQLite.cs" />
+    <Compile Include="createUser.cs" />
+    <Compile Include="MainMenu.cs" />
+    <Compile Include="CreerSoiree.cs" />
+    <Compile Include="calendrier.cs" />
+    <Compile Include="invites.cs" />
+    <Compile Include="TypeSoiree.cs" />
+    <Compile Include="ConfigSoiree.cs" />
+    <Compile Include="DBCourses.cs" />
+    <Compile Include="Alcool.cs" />
+    <Compile Include="Soft.cs" />
+    <Compile Include="Extras.cs" />
+    <Compile Include="ListeAlcool.cs" />
+    <Compile Include="ListeSoft.cs" />
+    <Compile Include="Apero.cs" />
+    <Compile Include="ListeApero.cs" />
+    <Compile Include="ListeBBQ.cs" />
+    <Compile Include="Barbecue.cs" />
+    <Compile Include="ListeExtras.cs" />
+    <Compile Include="Brunch.cs" />
+    <Compile Include="ListeBrunch.cs" />
+    <Compile Include="MaSoiree.cs" />
+    <Compile Include="Amis.cs" />
+    <Compile Include="Final.cs" />
+    <Compile Include="coursesBoissons.cs" />
+    <Compile Include="coursesExtras.cs" />
+    <Compile Include="coursesNourriture.cs" />
+    <Compile Include="DBInitialization.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Resources\Frenzy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\Main.axml" />
+    <AndroidResource Include="Resources\values\Strings.xml" />
+    <AndroidResource Include="Resources\drawable-hdpi\Icon.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\Icon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\Icon.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\Icon.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\Icon.png" />
+    <AndroidResource Include="Resources\layout\Layout2.axml" />
+    <AndroidResource Include="Resources\layout\Menu_Principal.axml" />
+    <AndroidResource Include="Resources\layout\Creer_sa_soiree.axml" />
+    <AndroidResource Include="Resources\layout\Calendrier.axml" />
+    <AndroidResource Include="Resources\layout\Invites.axml" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\BigParty.PNG" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\Brunch.PNG" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\SoireePosee.PNG" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\Barbecue.PNG" />
+    <AndroidResource Include="Resources\layout\Type_de_soiree.axml" />
+    <AndroidResource Include="Resources\layout\Choix.axml" />
+    <AndroidResource Include="Resources\layout\extras.axml" />
+    <AndroidResource Include="Resources\layout\ListeAlcool.axml" />
+    <AndroidResource Include="Resources\layout\Soft.axml" />
+    <AndroidResource Include="Resources\layout\foodApero.axml" />
+    <AndroidResource Include="Resources\layout\foodBarbecue.axml" />
+    <AndroidResource Include="Resources\layout\foodBrunch.axml" />
+    <AndroidResource Include="Resources\layout\Soirees.axml" />
+    <AndroidResource Include="Resources\layout\Amis.axml" />
+    <AndroidResource Include="Resources\layout\coursesBoissons.axml" />
+    <AndroidResource Include="Resources\layout\coursesExtras.axml" />
+    <AndroidResource Include="Resources\layout\coursesNourriture.axml" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\arriereplan.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\Party.png" />
+    <AndroidResource Include="Resources\layout\Config_soiree.axml" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\InviterAmis.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\Soirees.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\Frenzy.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\CreerMaSoiree.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+</Project>
